@@ -1,0 +1,1 @@
+web: gunicorn smartwatersystem.wsgi --log-file -
